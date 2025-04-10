@@ -37,5 +37,5 @@ You can:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/music-genre-classifier.git
+   [git clone https://github.com/your-username/music-genre-classifier.git](https://github.com/amitg404/Music_genre_classification.git)
    cd music-genre-classifier
